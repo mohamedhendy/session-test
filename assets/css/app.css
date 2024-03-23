@@ -1,4 +1,4 @@
 @import 'vue3-perfect-scrollbar';
-@import '@bhplugin/vue3-datatable';
-@import 'file-upload-with-preview';
+@import '@bhplugin/vue3-datatable/dist/style.css';
+@import 'file-upload-with-preview/dist/file-upload-with-preview.min.css';
 @import 'tailwind.css';
